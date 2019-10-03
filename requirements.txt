@@ -1,0 +1,2 @@
+Requirement already satisfied: freeze in /Users/nan/Documents/projet_github/venv/lib/python3.6/site-packages (1.0.10)
+Requirement already satisfied: six in /Users/nan/Documents/projet_github/venv/lib/python3.6/site-packages (from freeze) (1.12.0)
