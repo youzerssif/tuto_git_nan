@@ -1,2 +1,4 @@
-Requirement already satisfied: freeze in /Users/nan/Documents/projet_github/venv/lib/python3.6/site-packages (1.0.10)
-Requirement already satisfied: six in /Users/nan/Documents/projet_github/venv/lib/python3.6/site-packages (from freeze) (1.12.0)
+Django==2.2.6
+pytz==2019.2
+six==1.12.0
+sqlparse==0.3.0
